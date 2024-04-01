@@ -1,5 +1,6 @@
 const prompt = require("prompt-sync")();
 
+console.log("Hello Everyone...");
 console.log("Welcome to the Computer Hardware Quiz!");
 
 //find how many correct answers that we got
